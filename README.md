@@ -22,8 +22,3 @@ And you can set twelve kinds of key : F1 ~ F12.
 | F1      | Start click task     |
 | F2      | Stop click task     |
 | F3      | Exit program     |
-
-# License
-
-Python3-Tkinter-AutoClicker is licensed under the terms of the MIT License (see the file
-LICENSE).

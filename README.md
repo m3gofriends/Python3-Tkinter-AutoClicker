@@ -4,11 +4,11 @@ AutoClicker with controls using tkinter and pynput.
 ![Image](https://i.imgur.com/XoWArhk.png)
 
 * Default value:
-        Time interval is 1.0 second.
-        Mouse button is left.
-        Start key is F1.
-        Stop key is F2.
-        End key is F3.
+    * Time interval is 1.0 second.
+    * Mouse button is left.
+    * Start key is F1.
+    * Stop key is F2.
+    *  End key is F3.
         
 **Note:**  
 You can set three kinds of mouse button : Left, Middle or Right.

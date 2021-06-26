@@ -22,3 +22,6 @@ And you can set twelve kinds of key : F1 ~ F12.
 | F1      | Start click task     |
 | F2      | Stop click task     |
 | F3      | Exit program     |
+
+# Demo
+[![](https://img.youtube.com/vi/ohYgznUyeHQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=ohYgznUyeHQ "")

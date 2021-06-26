@@ -1,3 +1,7 @@
+"""                                      
+      First publication date : 2020 / 10 / 30
+      Author : 張哲銘(CHANG, CHE-MING)
+"""
 import tkinter as tk
 import tkinter.ttk as ttk
 from pynput import keyboard

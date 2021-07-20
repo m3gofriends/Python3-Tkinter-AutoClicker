@@ -11,7 +11,7 @@ root = tk.Tk()
 root.title('AutoClicker')
 screen_width = root.winfo_screenwidth()
 screen_height = root.winfo_screenheight()
-root.geometry(str(int(screen_width/4))+'x'+str(int(screen_height/3)))
+root.geometry(str(screen_width//4) + 'x' + str(screen_height//3))
 
 time_frame = tk.Frame(root)
 time_frame.pack()

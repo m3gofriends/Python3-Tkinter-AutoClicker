@@ -1,7 +1,7 @@
 # Python3-Tkinter-AutoClicker
 AutoClicker with controls using tkinter and pynput.
 
-![Image](https://i.imgur.com/XoWArhk.png)
+![Image](https://i.imgur.com/3GnnoRa.png)
 
 * Default value:
     * Time interval is 1.0 second.
